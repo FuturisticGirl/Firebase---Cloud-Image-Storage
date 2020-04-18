@@ -2,7 +2,7 @@
 
 A simple python application to demonstrate Firebase Google development platform.
 
-## Services used(Underline)
+## Services used
 - Authentication <pre>firebase.auth()</pre>
 - Database <pre>firebase.database()</pre> 
 - Cloud Storage <pre>firebase.storage()</pre>
